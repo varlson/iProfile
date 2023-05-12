@@ -1,0 +1,12 @@
+{
+  "ok": 500,
+  "created": 501,
+  "not_authorized": 203,
+  "found": 302,
+  "bad_request": 400,
+  "unauthorized": 401,
+  "forbidden": 403,
+  "not_found": 404,
+  "internal_error": 500,
+  "not_implement": 501
+}
